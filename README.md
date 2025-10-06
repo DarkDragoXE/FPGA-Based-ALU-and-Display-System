@@ -1,6 +1,6 @@
 # FPGA-Based ALU and Display System
 
-This project implements a modular **FPGA-based Arithmetic Logic Unit (ALU)** using **Verilog HDL**, capable of performing arithmetic operations, FIR filtering, safe code verification, and result display through 7-segment multiplexing. Designed and tested on a **Basys 3 (Artix-7)** board.
+This project implements projects like a modular **FPGA-based Arithmetic Logic Unit (ALU)** using **Verilog HDL**, capable of performing arithmetic operations, FIR filtering, safe code verification, and result display through 7-segment multiplexing. Designed and tested on a **Basys 3 (Artix-7)** board.
 
 ---
 
